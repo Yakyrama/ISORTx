@@ -5,7 +5,7 @@ The goal of this repository is to be a guide for a future use of the dual arms t
 
 First of all, The goal of this project is to unfold the cloth using two robotics arms of Trossens Robotics: the WidowX250s.
 In order to do this, the robotics arms need to grab the cloth. It means that they need to see how the cloth is laying to do,
-We use a [Interbotix camera] to detect the cloths and use segment anything to isolate the hard part of the cloth such as zipper or buttons.
+We use a d345 to detect the cloths and use segment anything to isolate the hard part of the cloth such as zipper or buttons.
 
 First the version of Ubuntu used was Ubuntu 22.04 Jammy and the version of ros was ROS2 humble.
 
