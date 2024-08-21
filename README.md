@@ -52,7 +52,7 @@ colcon build
 source install/setup.bash
 colcon build
 ```
-https://github.com/Yakyrama/ISORTx-Dual-robotics-arms/blob/b3ebf2b6459518d62e2998d3982dbbf971a74ea0/github_image/Both_robots_moving.png
+
 And then in one terminal paste this:
 ```
 ros2 launch interbotix_xsarm_dual xsarm_dual.launch.py
