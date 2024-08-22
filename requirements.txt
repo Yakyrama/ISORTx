@@ -1,3 +1,4 @@
 python3-rosdep == 0.24.0
 ros-humble-rviz2 == 11.2.12
 ros-humble-moveit == 2.5.5
+gazebo == 11.10.2
