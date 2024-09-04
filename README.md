@@ -60,7 +60,7 @@ ros2 launch interbotix_xsarm_dual xsarm_dual.launch.py
 Wait a bit for the dual robotic arms to spawn in Rviz,
 Then in the other terminal paste the followijng command:
 ```
-ros2 run interbotix_xsarm_dual xsarm_dual_test.py
+ros2 run interbotix_xsarm_dual xsarm_dual.py
 ```
 With this, there should be two robotic arms moving in rviz in a movement that look like a cloth being picked up and somewhat unfolded and then putting it back down.
 
